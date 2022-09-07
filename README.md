@@ -1,3 +1,3 @@
-# Text mining reports
+# Projects Report or Presentation
 
-This repository contains the reports for text mining group works from UoM
+This repository contains the reports or presentations for different projects.
